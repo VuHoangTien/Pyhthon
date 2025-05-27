@@ -19,7 +19,7 @@ class LoginGui():
         
         # Tiêu đề
         header = tk.Label(frame, text="Đăng nhập", font=("Arial", 20, "bold"), bg="white", fg="#57a1f8")
-        header.place(x=100, y=10)
+        header.place(relx=0.5, y=20, anchor=tk.CENTER)
 
         # Tạo các trường nhập liệu
         # Tên đăng nhập
@@ -61,21 +61,34 @@ class LoginGui():
 
         # Nút quên mật khẩu
         forgot_password = tk.Label(frame, text="Quên mật khẩu?", bg="white", fg="#57a1f8", font=("Arial", 9))
-        forgot_password.place(x=70, y=300)
+        forgot_password.place(relx=0.5, y=300, anchor=tk.CENTER)
         LoginEvent.apply_hover_effect_text(forgot_password)
 
-        # Nút đăng ký
-        register = tk.Label(frame, text="Đăng ký", bg="white", fg="#57a1f8", font=("Arial", 9))
-        register.place(x=220, y=300)
-        LoginEvent.apply_hover_effect_text(register)
+        # # Nút đăng ký
+        # register = tk.Label(frame, text="Đăng ký", bg="white", fg="#57a1f8", font=("Arial", 9))
+        # register.place(x=220, y=300)
+        # LoginEvent.apply_hover_effect_text(register)
 
 
 # Tạo cửa sổ chính
 root = tk.Tk()
 root.title("Đăng nhập hệ thống quản lý bệnh nhân nhiễm trùng huyết")
-root.geometry("925x500+300+200")
 root.configure(bg="#fff")
 root.resizable(False, False)
+
+# Kích thước cửa sổ
+window_width = 925
+window_height = 500
+
+# Lấy kích thước màn hình
+screen_width = root.winfo_screenwidth()
+screen_height = root.winfo_screenheight()
+
+# Tính toán vị trí để căn giữa
+center_x = int((screen_width - window_width) / 2)
+center_y = int((screen_height - window_height) / 2)
+
+root.geometry(f"{window_width}x{window_height}+{center_x}+{center_y}")
 
 # Tạo đường dẫn ảnh 
 CURRENT_DIR = os.path.dirname(os.path.abspath(__file__))
