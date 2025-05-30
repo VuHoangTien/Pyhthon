@@ -11,7 +11,7 @@ class LoginEvent:
         self.password_entry = password_entry
 
         #Biến trạng thái ẩn hiện
-        self.is_password_visible = tk.BooleanVar(value=False)
+   
 
     #Hàm xử lý đăng nhập
     def login(self):
