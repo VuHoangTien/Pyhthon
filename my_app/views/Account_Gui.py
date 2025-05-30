@@ -14,7 +14,7 @@ class AccountListGui():
         self.content_frame = content_frame
         self.setup_ui()
  
-    def setup_ui(self):
+    def buld_account_ui(self):
         """Tạo giao diện danh sách tài khoản"""
         # Tạo frame chính cho trang tài khoản
         self.account_frame = tk.Frame(self.content_frame, bg="#f8f9fa")

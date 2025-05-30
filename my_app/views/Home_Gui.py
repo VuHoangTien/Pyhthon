@@ -9,6 +9,7 @@ from customtkinter import CTkFrame
 from customtkinter import CTkScrollbar
 from models.data_models import load_users
 from controllers.main_controller import MainController
+from controllers.home_controller import HomeController
 
 
 class HomeGui():
@@ -18,7 +19,11 @@ class HomeGui():
         self.build_home_ui()
         self.show_home()  # Hiển thị trang chủ mặc định
 
-    
+    def show_home(self):
+        """Hiển thị trang chủ"""
+        if self.current_content:
+            self.current_content.destroy()
+        self.current_content = HomeController(self)
 
     def build_home_ui(self):
         # Header frame
