@@ -1,0 +1,86 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "email": "admin@hospital.com",
+    "phone": "0901234567"
+  },
+  {
+    "username": "doctor01",
+    "password": "doc123456",
+    "email": "doctor1@hospital.com",
+    "phone": "0912345678"
+  },
+  {
+    "username": "nurse01",
+    "password": "nurse123",
+    "email": "nurse1@hospital.com",
+    "phone": "0923456789"
+  },
+  {
+    "username": "manager",
+    "password": "manager456",
+    "email": "manager@hospital.com",
+    "phone": "0934567890"
+  },
+  {
+    "username": "doctor02",
+    "password": "doc789012",
+    "email": "doctor2@hospital.com",
+    "phone": "0945678901"
+  },
+  {
+    "username": "nurse02",
+    "password": "nurse456",
+    "email": "nurse2@hospital.com",
+    "phone": "0956789012"
+  },
+  {
+    "username": "technician",
+    "password": "tech123",
+    "email": "tech@hospital.com",
+    "phone": "0967890123"
+  },
+  {
+    "username": "pharmacist",
+    "password": "pharm789",
+    "email": "pharmacist@hospital.com",
+    "phone": "0978901234"
+  },
+  {
+    "username": "receptionist",
+    "password": "recep123",
+    "email": "reception@hospital.com",
+    "phone": "0989012345"
+  },
+  {
+    "username": "staff01",
+    "password": "staff456",
+    "email": "staff1@hospital.com",
+    "phone": "0990123456"
+  },
+  {
+    "username": "doctor03",
+    "password": "docpass789",
+    "email": "doctor3@hospital.com",
+    "phone": "0901122334"
+  },
+  {
+    "username": "nurse03",
+    "password": "nursepass",
+    "email": "nurse3@hospital.com",
+    "phone": "0912233445"
+  },
+  {
+    "username": "hehehehe",
+    "email": "hehe@gmail.com",
+    "fullname": "he he he",
+    "phone": "098561356",
+    "role": "Admin",
+    "status": "Hoạt động",
+    "created_date": "31/05/2025",
+    "last_login": "Chưa đăng nhập",
+    "note": "",
+    "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+  }
+]
