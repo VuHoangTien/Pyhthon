@@ -95,39 +95,5 @@
     "emergency_name": "Võ Văn G",
     "relationship": "Anh trai",
     "emergency_phone": "0911112233"
-  },
-  {
-    "id": "NV013",
-    "name": "HEHEHE",
-    "birth_date": "11/11/2000",
-    "gender": "Nam",
-    "phone": "0365489712",
-    "email": "HEHE@gmail.com",
-    "address": "",
-    "blood_type": "A",
-    "height": "",
-    "weight": "",
-    "medical_history": "",
-    "emergency_name": "",
-    "relationship": "Cha",
-    "emergency_phone": "",
-    "image_path": null
-  },
-  {
-    "id": "BN008",
-    "name": "tien",
-    "birth_date": "11/11/2000",
-    "gender": "Nam",
-    "phone": "09856648",
-    "email": "tien@gmail.com",
-    "address": "",
-    "blood_type": "A",
-    "height": "",
-    "weight": "",
-    "medical_history": "",
-    "emergency_name": "",
-    "relationship": "Cha",
-    "emergency_phone": "",
-    "image_path": null
   }
 ]

@@ -6,12 +6,6 @@
     "phone": "0901234567"
   },
   {
-    "username": "doctor01",
-    "password": "doc123456",
-    "email": "doctor1@hospital.com",
-    "phone": "0912345678"
-  },
-  {
     "username": "nurse01",
     "password": "nurse123",
     "email": "nurse1@hospital.com",
