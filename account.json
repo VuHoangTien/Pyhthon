@@ -1,69 +1,135 @@
 [
   {
     "username": "admin",
-    "password": "admin123",
     "email": "admin@hospital.com",
-    "phone": "0901234567"
+    "fullname": "hehehehe",
+    "phone": "06916486236",
+    "role": "Admin",
+    "status": "Hoạt động",
+    "created_date": "",
+    "last_login": "",
+    "note": "",
+    "password_hash": "admin123"
   },
   {
     "username": "nurse01",
-    "password": "nurse123",
     "email": "nurse1@hospital.com",
-    "phone": "0923456789"
+    "phone": "0923456789",
+    "fullname": null,
+    "role": null,
+    "status": null,
+    "created_date": null,
+    "last_login": null,
+    "note": null,
+    "password_hash": "nurse123"
   },
   {
     "username": "manager",
-    "password": "manager456",
     "email": "manager@hospital.com",
-    "phone": "0934567890"
+    "fullname": "hehehee",
+    "phone": "0934567890",
+    "role": "",
+    "status": "",
+    "created_date": "",
+    "last_login": "",
+    "note": "",
+    "password_hash": null
   },
   {
     "username": "doctor02",
-    "password": "doc789012",
     "email": "doctor2@hospital.com",
-    "phone": "0945678901"
+    "phone": "0945678901",
+    "fullname": null,
+    "role": null,
+    "status": null,
+    "created_date": null,
+    "last_login": null,
+    "note": null,
+    "password_hash": "doc789012"
   },
   {
     "username": "nurse02",
-    "password": "nurse456",
     "email": "nurse2@hospital.com",
-    "phone": "0956789012"
+    "phone": "0956789012",
+    "fullname": null,
+    "role": null,
+    "status": null,
+    "created_date": null,
+    "last_login": null,
+    "note": null,
+    "password_hash": "nurse456"
   },
   {
     "username": "technician",
-    "password": "tech123",
     "email": "tech@hospital.com",
-    "phone": "0967890123"
+    "phone": "0967890123",
+    "fullname": null,
+    "role": null,
+    "status": null,
+    "created_date": null,
+    "last_login": null,
+    "note": null,
+    "password_hash": "tech123"
   },
   {
     "username": "pharmacist",
-    "password": "pharm789",
     "email": "pharmacist@hospital.com",
-    "phone": "0978901234"
+    "phone": "0978901234",
+    "fullname": null,
+    "role": null,
+    "status": null,
+    "created_date": null,
+    "last_login": null,
+    "note": null,
+    "password_hash": "pharm789"
   },
   {
     "username": "receptionist",
-    "password": "recep123",
     "email": "reception@hospital.com",
-    "phone": "0989012345"
+    "phone": "0989012345",
+    "fullname": null,
+    "role": null,
+    "status": null,
+    "created_date": null,
+    "last_login": null,
+    "note": null,
+    "password_hash": "recep123"
   },
   {
     "username": "staff01",
-    "password": "staff456",
     "email": "staff1@hospital.com",
-    "phone": "0990123456"
+    "phone": "0990123456",
+    "fullname": null,
+    "role": "Staff",
+    "status": null,
+    "created_date": null,
+    "last_login": null,
+    "note": null,
+    "password_hash": "staff456"
   },
   {
     "username": "doctor03",
-    "password": "docpass789",
     "email": "doctor3@hospital.com",
-    "phone": "0901122334"
+    "phone": "0901122334",
+    "fullname": null,
+    "role": null,
+    "status": null,
+    "created_date": null,
+    "last_login": null,
+    "note": null,
+    "password_hash": "docpass789"
   },
   {
     "username": "nurse03",
-    "password": "nursepass",
     "email": "nurse3@hospital.com",
-    "phone": "0912233445"
+    "phone": "0912233445",
+    "fullname": null,
+    "role": null,
+    "status": null,
+    "created_date": null,
+    "last_login": null,
+    "note": null,
+    "password_hash": "nursepass"
   },
   {
     "username": "hehehehe",
