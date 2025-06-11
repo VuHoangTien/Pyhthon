@@ -1,0 +1,44 @@
+[
+  {
+    "id": "NV001",
+    "name": "Nguyễn Thị Thanh Hằng",
+    "birth_date": "11/08/2006",
+    "gender": "Nữ",
+    "phone": "0986574563",
+    "email": "ngtthang@gmail.com",
+    "address": "",
+    "position": "Bác sĩ",
+    "department": "Nội khoa",
+    "start_date": "",
+    "salary": "",
+    "image_path": null
+  },
+  {
+    "id": "NV002",
+    "name": "Vũ Hoàng Tiên",
+    "birth_date": "20/02/2002",
+    "gender": "Nam",
+    "phone": "0694659846",
+    "email": "tien@gmail.com",
+    "address": "",
+    "position": "Bác sĩ",
+    "department": "Nội khoa",
+    "start_date": "",
+    "salary": "",
+    "image_path": null
+  },
+  {
+    "id": "NV003",
+    "name": "ahihi",
+    "birth_date": "11/11/2000",
+    "gender": "Nam",
+    "phone": "0956878632",
+    "email": "he@gmail.com",
+    "address": "",
+    "position": "Bác sĩ",
+    "department": "Nội khoa",
+    "start_date": "",
+    "salary": "",
+    "image_path": null
+  }
+]

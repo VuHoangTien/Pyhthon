@@ -1,0 +1,62 @@
+[
+  {
+    "username": "admin",
+    "password_hash": "admin123",
+    "fullname": "Nguyễn Văn A",
+    "email": "admin@hospital.com",
+    "phone": "0985645789",
+    "role": "Admin",
+    "status": "Hoạt động",
+    "created_date": "",
+    "last_login": "",
+    "note": ""
+  },
+  {
+    "username": "manager",
+    "email": "manager@hospital.com",
+    "fullname": "hehehee",
+    "phone": "0934567890",
+    "role": "",
+    "status": "",
+    "created_date": "",
+    "last_login": "",
+    "note": "",
+    "password_hash": null
+  },
+  {
+    "username": "staff01",
+    "email": "staff1@hospital.com",
+    "phone": "0990123456",
+    "fullname": null,
+    "role": "Staff",
+    "status": null,
+    "created_date": null,
+    "last_login": null,
+    "note": null,
+    "password_hash": "staff456"
+  },
+  {
+    "username": "doctor03",
+    "email": "doctor3@hospital.com",
+    "phone": "0901122334",
+    "fullname": null,
+    "role": null,
+    "status": null,
+    "created_date": null,
+    "last_login": null,
+    "note": null,
+    "password_hash": "docpass789"
+  },
+  {
+    "username": "hehehehe",
+    "email": "hehe@gmail.com",
+    "fullname": "he he he",
+    "phone": "098561356",
+    "role": "Admin",
+    "status": "Hoạt động",
+    "created_date": "31/05/2025",
+    "last_login": "Chưa đăng nhập",
+    "note": "",
+    "password_hash": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4"
+  }
+]
